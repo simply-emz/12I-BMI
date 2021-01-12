@@ -1,3 +1,13 @@
 ion-content {
   background: linear-gradient(to bottom, #c6ffdd, #fbd786, #f7797d);
 }
+
+h2 {
+  color: #b1494d;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
